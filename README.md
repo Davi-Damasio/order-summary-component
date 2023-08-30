@@ -1,6 +1,6 @@
-# Frontend Mentor - NFT preview card component
+# Frontend Mentor - Order Summary component
 
-Essa é uma solução para o projeto [NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub). O Frontend Mentor challenges te ajuda a melhorar as suas habilidades construindo  projetos realistas. 
+Essa é uma solução para o projeto [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub). O Frontend Mentor challenges te ajuda a melhorar as suas habilidades construindo  projetos realistas. 
 
 ## Table of contents
 
